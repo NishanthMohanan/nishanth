@@ -1,5 +1,5 @@
 # Hi, I'm Nishanth 🙌
-### Python Developer 🐍
+### Python Developer
 
 ---
 
